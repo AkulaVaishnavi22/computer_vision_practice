@@ -37,4 +37,4 @@ A beginner computer vision project that detects a selected color in real time us
 Clone the repository:
 
 ```bash
-git clone https://github.com/AkulaVaishnavi22/computer_vision_practice.git/color_detection
+git clone https://github.com/AkulaVaishnavi22/computer_vision_practice.git
