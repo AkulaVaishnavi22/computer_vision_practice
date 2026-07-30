@@ -30,7 +30,7 @@ A beginner computer vision project that detects a selected color in real time us
 
 ## Project Output
 
-![Color Detection Output](screenshots/output.png)
+![Color Detection Output](./output.png)
 
 ## Installation
 
